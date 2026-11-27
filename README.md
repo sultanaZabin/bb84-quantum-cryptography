@@ -31,4 +31,4 @@ jupyter notebook bb84_key_distribution.ipynb
 - Real systems send single photons over noisy channels, so the abort threshold allows some error.
 - This is a simplified simulation for learning.
 
-Made by Sultana with [Qiskit](https://www.ibm.com/quantum/qiskit).
+Made with [Qiskit](https://www.ibm.com/quantum/qiskit).
